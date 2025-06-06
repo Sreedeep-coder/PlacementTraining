@@ -13,7 +13,7 @@ interface Operations{
 
 class office implements hr, finance, Operations{
     public void display(){
-        System.out.println("this is data Member of Interface " + a);
+        System.out.println("This is data Member of Interface " + a);
     }
     public void budget(){
         System.out.println("Budget from finance");
