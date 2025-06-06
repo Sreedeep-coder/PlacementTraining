@@ -1,3 +1,4 @@
+package day04;
 import java.util.Scanner;
 public class minmaxarray {
     public static void main(String[] args) {

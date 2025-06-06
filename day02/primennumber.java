@@ -1,3 +1,4 @@
+package day02;
 import java.util.Scanner;
 public class primennumber {
     public static void main(String[] args){

@@ -1,0 +1,15 @@
+package day08;
+
+public class engine5kcc {
+    int speed  = 5000;
+    String model = "s15";
+    void show(){
+        System.ou.println("this is 5000cc Engnien");
+    }
+    public class engine5kcc {
+
+    }
+        
+    }
+    
+}

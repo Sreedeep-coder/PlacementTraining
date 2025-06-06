@@ -1,5 +1,6 @@
+package day02;
 public class dowhile {
-    public static void main(string[] args){
+    public static void main(String[] args){
         int = 1;
         do{
             i++;

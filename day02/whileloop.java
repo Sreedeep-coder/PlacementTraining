@@ -1,3 +1,4 @@
+package day02;
 public class whileloop {
     public static void main(String[]args){
         int i = 1;

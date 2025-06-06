@@ -1,3 +1,4 @@
+package day04;
 import java.util.Scanner;
 import java.util.Array;
 

@@ -1,3 +1,4 @@
+package day03;
 import java.util.Scanner;
 public class arrayjava {
     public static void main(String[] args){
